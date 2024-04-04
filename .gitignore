@@ -1,1 +1,5 @@
-.h5ad
+#data
+*.h5ad
+*.h5
+*.txt
+*.pt
